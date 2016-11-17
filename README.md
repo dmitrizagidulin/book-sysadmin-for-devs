@@ -25,7 +25,7 @@ In-progress book.
   - shell scripts, Ansible, Chef, Puppet
   - language-specific (ruby Capistrano)
   - immutable infrastructure, environment as code
-  - storing configuration / credentials securely. Environment variables. 
+  - storing configuration / credentials securely. Environment variables.
   - schema migration
   - data sets, testing/QA data, fixtures/auto-generating vs sanitizing
     of production data. Realistic data set size / composition.
@@ -121,7 +121,7 @@ In-progress book.
   - disk i/o schedulers
   - RAID
 * System Maintenance
-  - OS/package upgrades
+  - OS/package upgrades. automatic updates/patches
   - Planned downtime
 * Disaster Recovery
   - data recovery

@@ -21,7 +21,7 @@ and tools make their way into the dev mainstream collective subconscious, many
 of these ops/sysadmin tasks get automated, and rightly so. But regardless of the
 level of automation, human attention and expertise is needed to provision and
 deploy most systems (or at least troubleshoot them when something inevitably
-breaks.
+breaks).
 
 I am *not* saying that everybody should know everything, or that system
 administration and devops is so easy that there is no point in specialists
